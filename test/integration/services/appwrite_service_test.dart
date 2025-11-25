@@ -3,7 +3,7 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:flutter_dotenv/flutter_dotenv.dart';
 import 'package:integration_test/integration_test.dart';
-import 'package:hlens/core/services/appwrite_service.dart';
+import 'package:hlens/services/appwrite_service.dart';
 
 /// Tests d'intégration pour AppwriteService.
 ///

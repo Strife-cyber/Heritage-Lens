@@ -3,7 +3,7 @@ import 'dart:async';
 import 'package:flutter/material.dart';
 import 'package:flutter_embed_unity/flutter_embed_unity.dart';
 
-import 'core/services/unity_service.dart';
+import 'services/unity_service.dart';
 
 void main() {
   runApp(const MyApp());

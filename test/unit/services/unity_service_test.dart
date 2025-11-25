@@ -2,7 +2,7 @@ import 'dart:convert';
 
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:hlens/core/services/unity_service.dart';
+import 'package:hlens/services/unity_service.dart';
 
 void main() {
   group('UnityOutgoingMessage', () {
